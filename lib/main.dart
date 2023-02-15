@@ -1,3 +1,4 @@
+// @dart=2.9
 import 'package:flutter/material.dart';
 import 'package:flash_chat_flutter_2/screens/welcome_screen.dart';
 import 'package:flash_chat_flutter_2/screens/login_screen.dart';
